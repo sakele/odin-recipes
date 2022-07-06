@@ -1,0 +1,13 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.no-bullets {
+    list-style-type: none;
+}
+div, .title {
+    text-align: center;
+}
+img {
+    height: auto;
+    width: 500px;
+}
